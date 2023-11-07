@@ -1,0 +1,39 @@
+{
+    "terminal.external.linuxExec": "zsh",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "zsh (2)": {
+            "path": "/usr/bin/zsh"
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh (2)",
+    "terminal.integrated.env.linux": {
+
+    },
+    "terminal.integrated.fontFamily": "'MesloLGS NF'",
+    "terminal.integrated.scrollback": 5000,
+    "workbench.colorTheme": "Dracula",
+    "editor.selectionClipboard": false,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "afterDelay",
+    "clangd.path": "/home/dkolan/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/16.0.2/clangd_16.0.2/bin/clangd",
+    "clangd.checkUpdates": true,
+    "explorer.confirmDragAndDrop": false
+}
